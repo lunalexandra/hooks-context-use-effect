@@ -1,0 +1,12 @@
+.list-container {
+    width: 50%;
+}
+.item {
+    border: 1px solid lightgrey;
+    padding: 10px;
+}
+
+.item:hover {
+    background-color: #0d6efd;
+    color: #fff;
+}

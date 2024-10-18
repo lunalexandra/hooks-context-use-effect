@@ -1,0 +1,11 @@
+*{
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  width: 30%;
+  margin: 100px auto;
+  align-items: start;
+  gap: 10px;
+}
